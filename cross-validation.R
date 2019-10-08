@@ -2,7 +2,7 @@
 
 # import data
 library(pacman)
-p_load(broom, car, corrr, tidyverse, ggplot2, modelr, purrr, rio)
+p_load(broom, car, tidyverse, modelr, rio)
 data <- import("")
 
 
