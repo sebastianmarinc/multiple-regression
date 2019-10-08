@@ -1,2 +1,2 @@
-# multiple-regression
-some R code on advanced multiple regression techniques 
+# psych-code
+some R code on some more advanced multiple regression techniques, latent variable modeling, and linear algebra 
