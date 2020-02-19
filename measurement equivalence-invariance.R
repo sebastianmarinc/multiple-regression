@@ -2,7 +2,7 @@
 # assuming variables measured on likert-type scales
 
 library(pacman)
-p_load(lavaan, semPlot, semTools, tidyverse, broom, psych, readr)
+p_load(lavaan, semPlot, semTools, tidyverse, broom, psych)
 data <- read_csv("")
 
 
